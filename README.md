@@ -10,6 +10,8 @@ xiangxiaopang 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.xjjblog.com:8082/my-github-repos)
+* [java线程数设置和系统cpu的关系](http://www.xjjblog.com:8082/articles/2019/12/05/1575516612700.html)
 * [ 打上线标签](http://www.xjjblog.com:8082/articles/2019/11/29/1575011556158.html)
 * [批量更新每次1000，截取list](http://www.xjjblog.com:8082/articles/2019/11/29/1575011439805.html)
 * [JAVA导入Excel 报错 java.io.IOException- Zip bomb detected!](http://www.xjjblog.com:8082/articles/2019/11/29/1575011367652.html)
