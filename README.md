@@ -10,6 +10,7 @@ xiangxiaopang 的个人博客
 
 ### 最新
 
+* [JDK的并发包里提供了几个非常有用的并发工具类。](http://www.xjjblog.com:8082/articles/2019/12/05/1575535873373.html)
 * [我在 GitHub 上的开源项目](http://www.xjjblog.com:8082/my-github-repos)
 * [java线程数设置和系统cpu的关系](http://www.xjjblog.com:8082/articles/2019/12/05/1575516612700.html)
 * [ 打上线标签](http://www.xjjblog.com:8082/articles/2019/11/29/1575011556158.html)
